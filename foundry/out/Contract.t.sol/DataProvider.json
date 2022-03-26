@@ -1,0 +1,14 @@
+{
+  "abi": [
+    {
+      "type": "function",
+      "name": "getAllReserveTokens",
+      "inputs": [],
+      "outputs": [],
+      "constant": null,
+      "stateMutability": "nonpayable"
+    }
+  ],
+  "bin": "0x",
+  "bin-runtime": "0x"
+}

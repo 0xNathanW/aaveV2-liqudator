@@ -1,0 +1,18 @@
+2022/02/16 07:33:06 Liquidation:  0xab77fabe934362e93d35023bfe0238bb7b42c1cb3e76d8530e56330541ed4af3
+        Block number:  14215841
+        Collateral asset:  0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984
+        Debt asset:  0xdAC17F958D2ee523a2206206994597C13D831ec7
+        Debt covered:  621261562
+        Liquidated collateral:  59453875894749816531
+        Liquidator:  0xd7663De542f62fa94EF7205e22e6CE7284DcC554
+        Liquidated: 0xaa039801ccf87b2adaa87865a577960024cec0cf
+
+2022/02/16 07:51:13 Liquidation:  0x55d3cd6a54eef112045dfc9cf2a8f0be2eb293e804ef57b2aacb0a75e02d858f
+        Block number:  14215915
+        Collateral asset:  0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F
+        Debt asset:  0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48
+        Debt covered:  727220521
+        Liquidated collateral:  156347598444967052699
+        Liquidator:  0xd7663De542f62fa94EF7205e22e6CE7284DcC554
+        Liquidated: 0x60a71287353f3ac632f3e75fd1be532850aa5f4d
+
